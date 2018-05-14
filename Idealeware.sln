@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Idealeware.Service", "Idealeware.Service\Idealeware.Service.csproj", "{AAC1A869-09BA-43E8-8B58-DC42B721BF3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Idealeware.Api", "Idealeware.Api\Idealeware.Api.csproj", "{AD437857-767A-4DFC-8C24-E92526B3443F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAC1A869-09BA-43E8-8B58-DC42B721BF3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAC1A869-09BA-43E8-8B58-DC42B721BF3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAC1A869-09BA-43E8-8B58-DC42B721BF3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAC1A869-09BA-43E8-8B58-DC42B721BF3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD437857-767A-4DFC-8C24-E92526B3443F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD437857-767A-4DFC-8C24-E92526B3443F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD437857-767A-4DFC-8C24-E92526B3443F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD437857-767A-4DFC-8C24-E92526B3443F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E857D30-CC4B-42D0-866A-3D7B31A9A7D3}
+	EndGlobalSection
+EndGlobal

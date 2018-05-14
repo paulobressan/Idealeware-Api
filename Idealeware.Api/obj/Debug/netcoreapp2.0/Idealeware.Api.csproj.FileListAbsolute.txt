@@ -1,0 +1,14 @@
+C:\Users\Paulo Bressan\source\repos\Idealeware\Idealeware.Api\bin\Debug\netcoreapp2.0\Idealeware.Api.deps.json
+C:\Users\Paulo Bressan\source\repos\Idealeware\Idealeware.Api\bin\Debug\netcoreapp2.0\Idealeware.Api.runtimeconfig.json
+C:\Users\Paulo Bressan\source\repos\Idealeware\Idealeware.Api\bin\Debug\netcoreapp2.0\Idealeware.Api.runtimeconfig.dev.json
+C:\Users\Paulo Bressan\source\repos\Idealeware\Idealeware.Api\bin\Debug\netcoreapp2.0\Idealeware.Api.dll
+C:\Users\Paulo Bressan\source\repos\Idealeware\Idealeware.Api\bin\Debug\netcoreapp2.0\Idealeware.Api.pdb
+C:\Users\Paulo Bressan\source\repos\Idealeware\Idealeware.Api\bin\Debug\netcoreapp2.0\Idealeware.Service.dll
+C:\Users\Paulo Bressan\source\repos\Idealeware\Idealeware.Api\bin\Debug\netcoreapp2.0\Idealeware.Service.pdb
+C:\Users\Paulo Bressan\source\repos\Idealeware\Idealeware.Api\obj\Debug\netcoreapp2.0\Idealeware.Api.csprojResolveAssemblyReference.cache
+C:\Users\Paulo Bressan\source\repos\Idealeware\Idealeware.Api\obj\Debug\netcoreapp2.0\Idealeware.Api.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Bressan\source\repos\Idealeware\Idealeware.Api\obj\Debug\netcoreapp2.0\Idealeware.Api.AssemblyInfoInputs.cache
+C:\Users\Paulo Bressan\source\repos\Idealeware\Idealeware.Api\obj\Debug\netcoreapp2.0\Idealeware.Api.AssemblyInfo.cs
+C:\Users\Paulo Bressan\source\repos\Idealeware\Idealeware.Api\obj\Debug\netcoreapp2.0\Idealeware.Api.csproj.CopyComplete
+C:\Users\Paulo Bressan\source\repos\Idealeware\Idealeware.Api\obj\Debug\netcoreapp2.0\Idealeware.Api.dll
+C:\Users\Paulo Bressan\source\repos\Idealeware\Idealeware.Api\obj\Debug\netcoreapp2.0\Idealeware.Api.pdb

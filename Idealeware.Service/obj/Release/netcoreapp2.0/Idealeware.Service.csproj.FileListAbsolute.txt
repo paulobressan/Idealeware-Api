@@ -1,0 +1,9 @@
+C:\Users\Paulo Bressan\source\repos\Idealeware\Idealeware.Service\bin\Release\netcoreapp2.0\Idealeware.Service.deps.json
+C:\Users\Paulo Bressan\source\repos\Idealeware\Idealeware.Service\bin\Release\netcoreapp2.0\Idealeware.Service.dll
+C:\Users\Paulo Bressan\source\repos\Idealeware\Idealeware.Service\bin\Release\netcoreapp2.0\Idealeware.Service.pdb
+C:\Users\Paulo Bressan\source\repos\Idealeware\Idealeware.Service\obj\Release\netcoreapp2.0\Idealeware.Service.csprojResolveAssemblyReference.cache
+C:\Users\Paulo Bressan\source\repos\Idealeware\Idealeware.Service\obj\Release\netcoreapp2.0\Idealeware.Service.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Bressan\source\repos\Idealeware\Idealeware.Service\obj\Release\netcoreapp2.0\Idealeware.Service.AssemblyInfoInputs.cache
+C:\Users\Paulo Bressan\source\repos\Idealeware\Idealeware.Service\obj\Release\netcoreapp2.0\Idealeware.Service.AssemblyInfo.cs
+C:\Users\Paulo Bressan\source\repos\Idealeware\Idealeware.Service\obj\Release\netcoreapp2.0\Idealeware.Service.dll
+C:\Users\Paulo Bressan\source\repos\Idealeware\Idealeware.Service\obj\Release\netcoreapp2.0\Idealeware.Service.pdb
